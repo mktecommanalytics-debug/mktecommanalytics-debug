@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/banner.svg" alt="Leandro Silva — Desenvolvimento de SaaS sob medida" width="100%"></p>
+
 # Olá, eu sou o Leandro 👋
 **Desenvolvimento de SaaS sob medida** — do MVP à operação em escala, com arquitetura multi-tenant, integrações com marketplaces e inteligência de dados.
 
