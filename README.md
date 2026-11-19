@@ -3,7 +3,7 @@
 # Olá, eu sou o Leandro 👋
 **Desenvolvimento de SaaS sob medida** — do MVP à operação em escala, com arquitetura multi-tenant, integrações com marketplaces e inteligência de dados.
 
-🏢 Markplace · 📍 São João da Boa Vista, SP · 🕒 GMT-3
+🏢 OPS SaaS · 📍 São João da Boa Vista, SP · 🕒 GMT-3
 
 ---
 
