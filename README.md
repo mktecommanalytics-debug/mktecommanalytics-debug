@@ -1,9 +1,9 @@
 <p align="center"><img src="./assets/banner.svg" alt="Leandro Silva — Desenvolvimento de SaaS sob medida" width="100%"></p>
 
 # Olá, eu sou o Leandro 👋
-**Desenvolvimento de SaaS sob medida** — do MVP à operação em escala, com arquitetura multi-tenant, integrações com marketplaces e inteligência de dados.
+**Dev e sócio fundador da [OPS SaaS](https://github.com/opssaas)** — sistemas e processos sob medida, do MVP à operação em escala, com arquitetura multi-tenant, integrações e inteligência de dados.
 
-🏢 OPS SaaS · 📍 São João da Boa Vista, SP · 🕒 GMT-3
+🏢 [OPS SaaS](https://github.com/opssaas) · 📍 São João da Boa Vista, SP · 🕒 GMT-3
 
 ---
 
